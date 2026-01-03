@@ -50,8 +50,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/hawkeye-monitor.git
-cd hawkeye-monitor
+git clone https://github.com/wfce/yingyanjiankong.git
+cd yingyanjiankong
 
 # 创建虚拟环境
 python -m venv venv
