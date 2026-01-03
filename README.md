@@ -1,6 +1,5 @@
 # 鹰眼监控系统 - README
 
-```markdown
 <div align="center">
   <img src="logo.jpg" alt="鹰眼监控" width="120" height="120" style="border-radius: 20px;">
   
