@@ -485,25 +485,3 @@ mypy .
   
 </div>
 ```
-
----
-
-## 补充文件
-
-### .env.example
-
-```env
-# Telegram Bot Token (必填)
-# 从 @BotFather 获取
-TELEGRAM_BOT_TOKEN=
-
-# 管理员用户ID (可选)
-# 多个用逗号分隔
-ADMIN_USER_IDS=
-
-# SMTP 邮件配置 (可选)
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USER=
-SMTP_PASSWORD=
-```
